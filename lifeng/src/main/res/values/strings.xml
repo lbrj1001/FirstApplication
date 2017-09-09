@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="operator_name">操作员号</string>
+    <string name="operator_pwd">输入密码</string>
+    <string name="login_name">登 录</string>
+    <string name="first_init">初始化</string>
+    <string name="re_init">重新初始化</string>
+    <string name="init_addr">初始化地址</string>
+    <string name="init_no">输入初始化码</string>
+</resources>
